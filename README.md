@@ -34,7 +34,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamimuru&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-> **Note:** Kalau gambar statistik di atas masih "pecah" atau nggak muncul, itu karena akun lu masih baru (0 aktivitas). Begitu lu buat repository dan mulai ngoding, gambarnya bakal muncul otomatis! ✨
 
 ---
 
