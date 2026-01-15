@@ -1,46 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Yamimuru&fontSize=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=terminal&color=00FF00&height=200&section=header&text=Yamimuru%20|%20Cyber%20Sec&fontSize=50&animation=fadeIn" width="100%"/>
 
-## 🚀 Welcome to My Coding Journey!
-  
-*"Setiap master dulunya adalah seorang beginner."*
+<br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5emZ4Mmx4bmV6bmV6bmV6bmV6bmV6bmV6bmV6bmV6bmV6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="250">
+<img src="https://img.shields.io/badge/System-Active-00FF00?style=for-the-badge&logo=linux&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Status-Learning_Hacking-red?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Target-Web_Security-blue?style=for-the-badge&logo=guart&logoColor=white" />
 
----
+<br/>
+<br/>
 
-### 🙋‍♂️ About Me
-- 🌱 **Status:** Coding Newbie / Self-taught Developer.
-- 📚 **Currently Learning:** HTML, CSS, and the basics of JavaScript.
-- 🎯 **Goal:** Building my first fully responsive website.
-- ☕ **Fact:** Powered by curiosity and a lot of tutorials.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9qZGRueGZ6bmV6bmV6bmV6bmV6bmV6bmV6bmV6bmV6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/Y4p9S7vVvS8O7n9yXh/giphy.gif" width="400">
 
 ---
 
-### 🛠️ My Toolbox (Learning)
+### 📂 [Root@Yamimuru ~]# _
+> "I don't break into systems, I just find where the door was left open."
+
+- 🛡️ **Interest:** Penetration Testing | Digital Forensics | CTF Player
+- ⚡ **Current Focus:** Understanding OWASP Top 10 & Linux Privilege Escalation
+- 💻 **OS:** Kali Linux / Parrot OS
+- 🔍 **Learning:** Nmap, Burp Suite, & Metasploit
+
+---
+
+### 🛠️ Hacking Tools & Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black" />
 </p>
 
 ---
 
-### 📈 My GitHub Activity
+### 📊 System Analytics (GitHub Stats)
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yamimuru&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamimuru&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yamimuru&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamimuru&layout=compact&theme=matrix&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yamimuru&theme=matrix&hide_border=true" />
+</p>
 
 ---
 
-### 🤝 Let's Connect!
+### 🔗 Initializing Connection...
 <p align="center">
-<a href="https://instagram.com/GANTI_USERNAME_LU"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="mailto:GANTI_EMAIL_LU@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/USERNAME_LU"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:EMAIL_LU@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
