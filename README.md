@@ -1,51 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Yamimuru&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%"/>
+# 🚀 Hello World! I'm Yamimuru
+### 👨‍💻 Passionate Learner | Future Developer
 
-# ⚡ Hi there, I'm Yamimuru! 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yamimuru&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Views" />
-</p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9qZGRueGZ6bmV6bmV6bmV6bmV6bmV6bmV6bmV6bmV6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
 
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **Advanced Web Development**
-- 💬 Ask me about **Anything technical**
-- ⚡ Fun fact: **Code runs on coffee and bugs**
+"I'm a coding enthusiast who loves building things and solving problems."
+
+✨ **Current Goal:** Learning the fundamentals of Web Development.  
+🔭 **I’m currently working on:** Some beginner-friendly projects.  
+🌱 **I’m currently learning:** HTML, CSS, and JavaScript.  
+📫 **How to reach me:** [DM me on Instagram!](https://instagram.com/USERNAME_LU)
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
+### 🛠️ Tech Stack I'm Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Journey
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yamimuru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yamimuru&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamimuru&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yamimuru&theme=tokyonight&hide_border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://instagram.com/username_lu" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/username_lu" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:email_lu@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <b>Thanks for visiting!</b><br>
+  ⭐️ If you like what you see, feel free to follow me!
 </p>
 
 </div>
